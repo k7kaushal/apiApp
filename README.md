@@ -52,3 +52,6 @@ Fields such as ID, name, username and email were rendered in a tabular from via 
 
 Task 3:
 Modal pop up to display address, phone, website is implemented, the modal has a close button as well as a [x] button to close the popup, popup can also be closed by clicking outside the popup or ESC button. Many times users need the address or contact details for further use, it becomes difficult to copy this information from a popup especially on a mobile device, a feature of copying displayed text to user's clipboard is added in the popup for convenience.
+
+## Website link
+ Link : https://eloquent-ganache-fdfe7f.netlify.app/
