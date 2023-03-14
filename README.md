@@ -8,13 +8,13 @@ This command will install all the node modules required for the app
 ### `npm install react-bootstrap`
 This command will install all the modules required for working of Bootstrap with react
 
-###`npm install @mui/material`
+### `npm install @mui/material`
 This command will install all the modules required for working of Material UI with react
 
-###`npm install react-redux`
+### `npm install react-redux`
 This command will install all the modules required to use the redux library with react
 
-###`npm install @reduxjs/toolkit`
+### `npm install @reduxjs/toolkit`
 This command will install all the modules which will make it easier to use redux with react
 
 ## Run Code
