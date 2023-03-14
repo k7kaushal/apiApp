@@ -42,4 +42,13 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+##Observations
 
+Task 1:
+Code works as expected, when the API (https://jsonplaceholder.typicode.com/users) is fetched i.e on a GET API call a list of 10 objects is received. Although on further analysis of this API using POSTMAN, it was observed that this API does not support POST requests. As a solution an additional feature to add users locally was added at the top of the webpage in form of a modal popup.
+
+Task 2:
+Fields such as ID, name, username and email were rendered in a tabular from via the API response. Additional functionality to delete a data or to read more about an exixting data was added in the table. A search functionality capable of searching on the basis of any field present in the user data is implemented, all present data are displayed in case of no search query. As the data can be increased to any extent it might become harder to keep a track of the newly added data, hence a pagination is included in the table through which users can directly navigate to a required entry.
+
+Task 3:
+Modal pop up to display address, phone, website in implemented, the modal has a close button as well as a [x] button to close the popup, popup can also be closed by clicking outside the popup or ESC button. Many times users need the address or contact details for further use, it becomes difficult to copy this information from a popup especially on a mobile device, a feature of copying displayed text to user's clipboard is added in the popup for convenience.
