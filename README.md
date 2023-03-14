@@ -44,6 +44,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Observations
 
+![image](https://user-images.githubusercontent.com/82771451/225019445-6e57edb8-3d06-48c9-9d5b-46579683f653.png)
+
 Task 1:
 Code works as expected, when the API (https://jsonplaceholder.typicode.com/users) is fetched i.e on a GET API call a list of 10 objects is received. Although on further analysis of this API using POSTMAN, it was observed that this API does not support POST requests. As a solution an additional feature to add users locally was added at the top of the webpage in form of a modal popup.
 
